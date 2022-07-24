@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "tflite_the_professional_courseflowers_classification"
